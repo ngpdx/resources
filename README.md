@@ -70,6 +70,7 @@ Table of contents:
 
 ## Charts
 * [n3-charts/line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS
+* [cmaurer/angularjs-nvd3-directives](https://github.com/cmaurer/angularjs-nvd3-directives) - Angular directives for creating charts with nvd3
 * [bouil/angular-google-chart](https://github.com/bouil/angular-google-chart) - Google Chart Tools AngularJS Directive Module
 * [chinmaymk/angular-charts](https://github.com/chinmaymk/angular-charts) - angular directives for creating common charts using d3
 * [carlcraig/tc-angular-chartjs](https://github.com/carlcraig/tc-angular-chartjs) - Add Chart.js charts to your angular application
